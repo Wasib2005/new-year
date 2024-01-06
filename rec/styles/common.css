@@ -1,0 +1,9 @@
+* {
+    font-family: 'Work Sans', sans-serif;
+}
+
+.common-button {
+    border-radius: 5px;
+    background: #FFF;
+    padding: 21px 26px;
+}
