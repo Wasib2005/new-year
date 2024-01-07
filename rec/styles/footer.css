@@ -1,0 +1,96 @@
+footer {
+    background-image: url(/rec/images/th.jpg.png);
+    background-repeat: no-repeat;
+}
+
+.footer {
+    display: flex;
+}
+
+.footer-title {
+    color: #F8F8F8;
+    font-size: 45px;
+    font-weight: 700;
+    padding: 130px 668px 16px 230px;
+
+}
+
+.footer-dec {
+    color: #FFF;
+
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    width: 485px;
+    padding: 0px 331px 24px 230px;
+}
+
+.email {
+    color: #FFF;
+    padding: 0px 632px 16px 230px;
+    font-size: 16px;
+
+    font-weight: 400;
+    line-height: 26px;
+
+}
+
+.mobile {
+    color: #FFF;
+    padding: 0px 630px 32px 230px;
+    font-size: 16px;
+
+    font-weight: 400;
+    line-height: 26px;
+
+}
+
+.img-group {
+    padding-left: 200px;
+}
+
+.footer-img {
+    padding-left: 30px;
+    padding-bottom: 130px;
+}
+
+.footer-title-su {
+    color: #FFF;
+    font-size: 25px;
+    padding-top: 130px;
+    font-weight: 600;
+
+}
+
+.email-box {
+    border-radius: 8px;
+    border: 1px solid #FFF;
+    width: 325px;
+    height: 64px;
+    flex-shrink: 0;
+    background: #151414;
+    color: #F3F3F3;
+    padding: 21px 158px 22px 21px;
+    font-size: 18px;
+
+    font-weight: 400;
+
+    margin: 31px 431px 31px 0px;
+
+
+}
+
+
+.footer-button {
+    width: 170.106px;
+    height: 64px;
+
+    border-radius: 8px;
+    background: #005FAC;
+    color: #FFF;
+    font-family: Inter;
+    font-size: 20px;
+
+    font-weight: 600;
+
+}
