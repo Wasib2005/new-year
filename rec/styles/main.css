@@ -36,3 +36,6 @@
     line-height: 26px;
     padding-bottom: 8px;
 }
+.plan{
+    display: flex;
+}
