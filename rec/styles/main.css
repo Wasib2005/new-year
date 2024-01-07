@@ -1,0 +1,38 @@
+.failures {
+    display: flex;
+    padding: 140px 134px 0px 277px;
+    align-items: center;
+}
+
+.failures-title {
+    color: #151414;
+    font-size: 40px;
+
+    font-weight: 700;
+
+    width: 288px;
+}
+
+.failures-dec {
+    width: 416px;
+    color: #444343;
+    font-size: 16px;
+
+    font-weight: 400;
+    line-height: 26px;
+
+}
+
+.failures-list {
+    list-style-image: url(/rec/images/icons/check.png);
+}
+
+.failures-list li {
+    color: #444343;
+
+    font-size: 16px;
+
+    font-weight: 400;
+    line-height: 26px;
+    padding-bottom: 8px;
+}
