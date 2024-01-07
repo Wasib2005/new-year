@@ -36,6 +36,26 @@
     line-height: 26px;
     padding-bottom: 8px;
 }
-.plan{
+
+.plan {
     display: flex;
+
 }
+
+.plans-title {
+    padding-left: 765px;
+    padding-top: 130px;
+    padding-bottom: 50px;
+    color: #151414;
+
+    font-size: 40px;
+
+    font-weight: 700;
+
+}
+
+.plan-info{
+    text-align: center;
+    padding-left: 230px;
+}
+
