@@ -54,8 +54,43 @@
 
 }
 
-.plan-info{
+.plan-info {
     text-align: center;
     padding-left: 230px;
+    padding-bottom: 136px;
 }
 
+.bottom {
+    background-image: url(/rec/images/watch.png);
+
+    background-position-x: 230px, 230px;
+
+    background-repeat: no-repeat;
+}
+
+.bottom-title {
+    color: #FFF;
+
+    font-size: 40px;
+
+    font-weight: 700;
+
+    width: 459px;
+    padding: 60px 617px 24px 294px;
+
+}
+
+.call-button {
+    margin: 0px 294px 60px;
+    padding: 21px 36px;
+    border-radius: 5px;
+    background: #FFF;
+
+    color: #005FAC;
+    text-align: center;
+    font-family: Work Sans;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
