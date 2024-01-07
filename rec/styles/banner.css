@@ -1,0 +1,35 @@
+.banner {
+
+    background-image: url(/rec/images/banner/banner3.png);
+    background-repeat: no-repeat;
+    font-family: Work Sans;
+
+}
+
+.banner-title {
+    width: 525px;
+    color: #FFF;
+    text-align: right;
+    font-size: 65px;
+    font-weight: 700;
+    padding: 216px 230px 24px 845px;
+
+}
+
+.banner-doc {
+    width: 494px;
+    padding: 0px 230px 32px 876px;
+    text-align: right;
+}
+
+.banner-button {
+    margin: 0px 230px 166px 1210px;
+    border-radius: 5px;
+    background: #FFF;
+    border: none;
+
+    color: #005FAC;
+
+    font-size: 20px;
+    font-weight: 600;
+}

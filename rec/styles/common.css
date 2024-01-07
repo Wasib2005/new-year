@@ -1,9 +1,9 @@
-* {
-    font-family: 'Work Sans', sans-serif;
+*{
+    font-family: Work Sans;
 }
 
-.common-button {
-    border-radius: 5px;
-    background: #FFF;
-    padding: 21px 26px;
+.c-button {
+    width: 160px;
+    height: 64px;
+    padding: 21 25 20 20;
 }
